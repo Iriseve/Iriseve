@@ -1,8 +1,8 @@
 # About Me
 - 👋 Hi, I’m @yiling
 
-- 🌱 My current research focuses on large language models (LLMx), with particular interest in hallucination suppression, knowledge editing, and multi-agent cooperation.
-- 💞️ **I am currently looking for PhD or Master's positions for Fall 2025 and am also very interested in communicating and collaborating with researchers interested in it. If you would like to discuss further, please feel free to contact me via email, and I will respond as soon as possible.** 
+- 🌱 My current research focuses on large language models (LLMx), with particular interest in reasoning and agent related topics, in addition to (multimodal) hallucination suppression, multi-agent cooperation and LLM knowledge related problems. Anyway, my interests are more extensive, welcome to discuss some interesting work together!
+- 💞️ I am very interested in communicating and collaborating with researchers interested in it. If you would like to discuss further, please feel free to contact me via email, and I will respond as soon as possible. 
 - 📫 cyiling111@gmail.com 
 
 <!---
